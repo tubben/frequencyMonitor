@@ -1,0 +1,5 @@
+We developed an embedded microcontroller application that will monitor the power systems frequency, and take actions based on those measurements. 
+This application will have an LFC (Load-frequency control) block. 
+A Zero-cross-detection function is presented to calculate the frequency based on the period. An Arduino and LCD function is presented. Lastly, 
+a Vrms function is presented that will sample the ADC values to compute the calculations.
+To complete the application, an Arduino MKR1010, an LCD screen, and the Arduino cloud has been used.
